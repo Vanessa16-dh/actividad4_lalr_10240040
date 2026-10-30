@@ -1,0 +1,11 @@
+parser_lalr
+parser_lalr_san
+parser_lalr.tab.c
+parser_lalr.tab.h
+parser_lalr.output
+lex.yy.c
+*.o
+*.stdout
+*.stderr
+*.pdf
+*.zip

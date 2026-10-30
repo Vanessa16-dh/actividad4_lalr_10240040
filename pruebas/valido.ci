@@ -1,0 +1,2 @@
+total = precio + impuesto * 2.5; // decimal y comentario
+promedio = (total + precio) / 2;
